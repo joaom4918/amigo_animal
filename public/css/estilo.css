@@ -1,0 +1,29 @@
+footer.rodape{
+    grid-area: rodape;
+    background-color:#CDC9C9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    padding:  20px;
+    color: black;
+}
+
+
+.nav-link{
+    color: white; 
+}
+
+.container{
+    border-style:groove;
+    
+    
+}
+
+h1{
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+}
+
+
+  
